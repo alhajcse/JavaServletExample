@@ -78,6 +78,9 @@ Let’s go ahead and add such users by editing the **conf/tomcat-users**
 
 <img width="844" alt="Screenshot 2024-02-24 at 8 08 51 PM" src="https://github.com/alhajcse/JavaServletExample/assets/50860728/15fe0a7b-ed21-4934-9dea-bc2cc4f1304c">
 
+12. Finally run and view the application
+<img width="1277" alt="Screenshot 2024-02-24 at 11 28 12 PM" src="https://github.com/alhajcse/JavaServletExample/assets/50860728/ea4cd5d3-0eaa-4371-b39a-b2986316cdea">
+
  
 
 
