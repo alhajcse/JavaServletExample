@@ -55,6 +55,16 @@ public class MyWebServlet extends HttpServlet {
 </web-app>
 
 
+6. Install apache tomcat
+7. Accessing the Tomcat Manager App
+  <tomcat-users>
+  <role rolename="manager-gui"/>
+  <role rolename="manager-script"/>
+  <user username="admin" password="123456" roles="manager-gui,manager-script"/>
+</tomcat-users>
+
+
+
 
 
 
