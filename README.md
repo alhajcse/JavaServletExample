@@ -57,13 +57,13 @@ public class MyWebServlet extends HttpServlet {
 
 6. Install apache tomcat
 7. Accessing the Tomcat Manager App
-Let’s go ahead and add such users by editing the conf/tomcat-users file:
-
-  <tomcat-users>
+Let’s go ahead and add such users by editing the **conf/tomcat-users**
+   *** <tomcat-users>
   <role rolename="manager-gui"/>
   <role rolename="manager-script"/>
   <user username="admin" password="123456" roles="manager-gui,manager-script"/>
   </tomcat-users>
+  ***
 
 
 9. Let’s open http://localhost:8080/manager/html/ to view the Tomcat Manager App webpage.
