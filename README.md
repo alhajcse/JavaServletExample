@@ -11,7 +11,8 @@ Servlet is a java object that can read/understand HTTP requet and get response a
     id 'java'
     id 'war'
 }
-4. Cearte a servlet class ***package com.alhaj.servletexample;
+4. Cearte a servlet class ***MyWebServlet***
+package com.alhaj.servletexample;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.*;
