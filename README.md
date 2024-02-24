@@ -69,8 +69,15 @@ Let’s go ahead and add such users by editing the **conf/tomcat-users**
 9. Let’s open http://localhost:8080/manager/html/ to view the Tomcat Manager App webpage.
 ![image-112-1024x707](https://github.com/alhajcse/JavaServletExample/assets/50860728/fd6864ad-59eb-4a77-82da-6b52696374e8)
 
-10. Build war file for deploy
+10. Build war file for deploy in application manager
     **./gradlew war**
+
+11. Another way to locally run, application connect to tomcat server
+    
+<img width="848" alt="Screenshot 2024-02-24 at 8 08 13 PM" src="https://github.com/alhajcse/JavaServletExample/assets/50860728/20da03a4-5baa-4c87-a953-6ceccc970821">
+
+<img width="844" alt="Screenshot 2024-02-24 at 8 08 51 PM" src="https://github.com/alhajcse/JavaServletExample/assets/50860728/15fe0a7b-ed21-4934-9dea-bc2cc4f1304c">
+
  
 
 
