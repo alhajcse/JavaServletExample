@@ -11,7 +11,7 @@ Servlet is a java object that can read/understand HTTP requet and get response a
     id 'java'
     id 'war'
 }
-4. Cearte a servlet class ***MyWebServlet***
+4. Cearte a servlet class ***MyWebServlet**
 package com.alhaj.servletexample;
 import javax.servlet.ServletException;
 import javax.servlet.http.*;
@@ -36,8 +36,9 @@ public class MyWebServlet extends HttpServlet {
     }
 }
 
-5. Add Mapping in ***web.xml**
-   <?xml version="1.0" encoding="UTF-8"?>
+5. Add Mapping in **webapp/WEB-INFO/web.xml**
+
+<?xml version="1.0" encoding="UTF-8"?>
 <web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
