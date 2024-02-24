@@ -67,7 +67,7 @@ Let’s go ahead and add such users by editing the **conf/tomcat-users**
 
 
 9. Let’s open http://localhost:8080/manager/html/ to view the Tomcat Manager App webpage.
- ![tomcat-manager-app-e1570014354196 (1)](https://github.com/alhajcse/JavaServletExample/assets/50860728/616718f3-818d-4bab-b329-fd89312df714)
+![image-112-1024x707](https://github.com/alhajcse/JavaServletExample/assets/50860728/fd6864ad-59eb-4a77-82da-6b52696374e8)
 
  
 
